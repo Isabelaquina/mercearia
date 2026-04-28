@@ -1,0 +1,65 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Jantar Secreto",
+      "preco": 25.9, 
+      "estoque": 50
+    },
+    {
+      "id": 2,
+      "nome": "Nunca minta",
+      "preco": 8.5,
+      "estoque": 40
+    },
+    {
+      "id": 3,
+      "nome": "Açúcar 1kg",
+      "preco": 5.9,
+      "estoque": 30
+    },
+    {
+      "id": 4,
+      "nome": "Café 500g",
+      "preco": 12.9,
+      "estoque": 25
+    },
+    {
+      "id": 5,
+      "nome": "Leite 1L",
+      "preco": 4.9,
+      "estoque": 60
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Maria Silva",
+      "telefone": "(11) 99999-1111",
+      "limite": 100,
+      "divida": 0
+    },
+    {
+      "id": 2,
+      "nome": "José Santos",
+      "telefone": "(11) 99999-2222",
+      "limite": 50,
+      "divida": 0
+    },
+    {
+      "id": 3,
+      "nome": "Ana Carolina",
+      "telefone": "(11) 99999-3333",
+      "limite": 150,
+      "divida": 0
+    },
+    {
+      "id": 4,
+      "nome": "leticia",
+      "telefone": "(15) 92503-03",
+      "limite": 500.0,
+      "divida": 0
+    }
+  ],
+  "vendas": []
+}
